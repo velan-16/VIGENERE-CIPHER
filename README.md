@@ -105,4 +105,4 @@ Decrypted Message: SUGAVELAN
 ```
 
 ## RESULT
-    The Vigenere Cipher substitution technique was implemented successfully using C program, and the original message was encrypted and decrypted successfully.
+   The Vigenere Cipher substitution technique was implemented successfully using C program, and the original message was encrypted and decrypted successfully.
